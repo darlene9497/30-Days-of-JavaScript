@@ -4,11 +4,6 @@
 /** comments can make code readable, 
 easy to reuse and informative */
 
-const isString = "Introduction";
-const isBoolean = true;
-let isUndefined;
-let isNull = null;
-
 // variables without assigning values
 let varA, varB, varC, varD;
 
